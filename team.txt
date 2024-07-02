@@ -4,5 +4,5 @@
 
 [Davide Mancini] Working on feature X
 
-[Elizaveta Zavartseva] 
+[Elizaveta Zavartseva] Working on Y
 
