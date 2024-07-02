@@ -1,2 +1,7 @@
+[Davide Mancini]
+
+[Elizaveta Zavartseva] 
+
 [Davide Mancini] Working on feature X
-[Elizaveta Zavartseva]
+
+[Elizaveta Zavartseva] Working on feature Y
