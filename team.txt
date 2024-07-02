@@ -4,5 +4,4 @@
 
 [Davide Mancini] Working on feature X and fixing bug
 
-[Elizaveta Zavartseva] Working on Y
-
+[Elizaveta Zavartseva] Working on feature Y
