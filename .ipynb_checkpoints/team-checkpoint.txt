@@ -1,2 +1,11 @@
-[Davide Mancini] Working on feature X
-[Elizaveta Zavartseva]
+[Davide Mancini]
+
+[Elizaveta Zavartseva] 
+
+[Davide Mancini] Working on feature X and fixing bug
+
+[Davide Mancini] Updated feature X and started Y
+
+Bug here 
+bug there 
+fix bug
