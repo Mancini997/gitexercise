@@ -2,6 +2,7 @@
 
 [Elizaveta Zavartseva] 
 
+<<<<<<< HEAD
 [Davide Mancini] Working on feature X and fixing bug
 
 [Davide Mancini] Updated feature X and started Y
@@ -9,3 +10,8 @@
 Bug here 
 bug there 
 fix bug
+=======
+[Davide Mancini] Working on feature X
+
+[Elizaveta Zavartseva] Working on feature Y
+>>>>>>> 09ed56b6625c608a5cd4df11040a59aeec49f314
