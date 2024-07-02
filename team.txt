@@ -2,7 +2,7 @@
 
 [Elizaveta Zavartseva] 
 
-[Davide Mancini] Working on feature X
+[Davide Mancini] Working on feature X and fixing bug
 
 [Elizaveta Zavartseva] Working on Y
 
